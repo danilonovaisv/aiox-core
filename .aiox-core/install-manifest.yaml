@@ -8,7 +8,7 @@
 # - File types for categorization
 #
 version: 5.0.3
-generated_at: "2026-03-11T15:04:32.163Z"
+generated_at: "2026-03-11T15:20:42.843Z"
 generator: scripts/generate-install-manifest.js
 file_count: 1090
 files:
@@ -829,9 +829,9 @@ files:
     type: core
     size: 19293
   - path: core/orchestration/condition-evaluator.js
-    hash: sha256:a896e92c5b49ea187170d17c396ff4d239e7c355a6bc64b7a45a742959086531
+    hash: sha256:f4c68c3cf413aadfcd2c63cfff9a42d86590ce5994d5227cd9ff8987263f809b
     type: core
-    size: 11675
+    size: 14724
   - path: core/orchestration/context-manager.js
     hash: sha256:7bf273723a2c08cb84e670b9d4c55aacec51819b1fbd5f3b0c46c4ccfa2ec192
     type: core
