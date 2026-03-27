@@ -33,7 +33,7 @@
     "eslint": "10.1.0",
     "fs-extra": "^11.3.2",
     "glob": "13.0.6",
-    "mocha": "11.7.5"
+    "mocha": "^7.2.0"
   },
   "devDependencies": {
     "jest": "^25.0.0"
